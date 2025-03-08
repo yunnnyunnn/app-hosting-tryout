@@ -12,7 +12,7 @@ env:
   # Configure environment variables.
   # See https://firebase.google.com/docs/app-hosting/configure#user-defined-environment.
   - variable: MESSAGE
-    value: Hello world!
+    value: Hello world! Adjusted.
     availability:
       - BUILD
       - RUNTIME
